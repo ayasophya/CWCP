@@ -1,3 +1,6 @@
 [submodule "cwcp_frontend"]
 	path = cwcp_frontend
 	url = https://github.com/ayasophya/cwcp_frontend.git
+[submodule "CWCP_Backend"]
+	path = CWCP_Backend
+	url = https://github.com/Sprytte/CWCP_Backend.git
