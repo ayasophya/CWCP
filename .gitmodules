@@ -1,0 +1,3 @@
+[submodule "cwcp_frontend"]
+	path = cwcp_frontend
+	url = https://github.com/ayasophya/cwcp_frontend.git
